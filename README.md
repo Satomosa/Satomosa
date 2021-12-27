@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Satomosa
+- 👀 I’m interested in digital simulation software
+- 🌱 I’m currently teaching digital elecronic systems
+- 💞️ I’m looking to collaborate on standard logics circuits
